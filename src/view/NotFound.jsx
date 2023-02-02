@@ -9,9 +9,7 @@ export default function NotFound() {
                 <p>La URL solicitada no se encontró en este servidor.  <ins>Eso es todo lo que sabemos</ins>
                 </p>
                 <Link to="/"> Volver al Home</Link>
-                
             </div>
-
         </main>
     
     </>

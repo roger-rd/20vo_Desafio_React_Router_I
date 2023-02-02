@@ -7,9 +7,5 @@ export default function Navbar() {
         <NavLink to="/Contact" className= "m-3 p-2 text-light text-decoration-none mx-5"> ✉️ Contact</NavLink>
         <div className="ms-auto p-4 text-light mx-5">Happy Cake 🍰 </div>
     </div>
-        
-      
-
-    
     </>
 }
