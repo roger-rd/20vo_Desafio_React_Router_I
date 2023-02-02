@@ -1,3 +1,3 @@
 Puede ingresar  haciendo click:
 
--[deploy](https://jolly-seahorse-31ba17.netlify.app)
+<a href="https://jolly-seahorse-31ba17.netlify.app">Ver sitio</a>
